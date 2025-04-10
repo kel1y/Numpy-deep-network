@@ -1,1 +1,0 @@
-This project is compatible with any version of Python 3.
